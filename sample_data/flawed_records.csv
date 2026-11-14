@@ -1,0 +1,11 @@
+date,crop,harvested_kg,sales_revenue_ghs,expenses_ghs
+2026-09-01,Maize,60,330,120
+2026-09-01,Maize,60,330,120
+2026-09-02,tomato ,40,520,110
+2026-09-03,Cassava,abc,280,90
+2026-09-04,Pepper,25,,95
+not-a-date,Plantain,45,260,85
+2026-09-06,Maize,-30,300,100
+2026-09-07,,20,150,60
+2026-09-08,Cassava,55,210,GHS 80
+2026-09-09,Tomato,35,450,115

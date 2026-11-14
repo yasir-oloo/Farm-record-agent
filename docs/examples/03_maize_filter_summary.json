@@ -1,0 +1,27 @@
+{
+  "filters": {
+    "crops": [
+      "Maize"
+    ],
+    "date_from": "2026-09-01",
+    "date_to": "2026-09-19"
+  },
+  "records_in_view": 3,
+  "totals": {
+    "harvested_kg": 150.0,
+    "sales_revenue_ghs": 890.0,
+    "expenses_ghs": 350.0,
+    "recorded_balance_ghs": 540.0
+  },
+  "by_crop": [
+    {
+      "crop": "Maize",
+      "records": 3,
+      "harvested_kg": 150.0,
+      "sales_revenue_ghs": 890.0,
+      "expenses_ghs": 350.0,
+      "recorded_balance_ghs": 540.0,
+      "revenue_share_pct": 100.0
+    }
+  ]
+}
