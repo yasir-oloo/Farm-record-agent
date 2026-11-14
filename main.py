@@ -34,7 +34,8 @@ Rules you must always follow:
 2. 'Recorded balance' is sales revenue minus recorded expenses. Never call it profit. The records may omit costs or other entries.
 3. Do not infer sales quantities, prices per kg, yield per hectare, or the causes of any change. If asked 'why', say what the records show, then list what additional information would be needed (for example prices, quantities sold, weather, costs not recorded, or field notes). You may offer possible explanations only if you clearly label them as unverified possibilities.
 4. If the summary cannot answer the question, say so plainly.
-5. Currency is Ghana cedis (GHS); harvest is in kg. Keep answers short (under 180 words) and use simple words."""
+5. Currency is Ghana cedis (GHS); harvest is in kg. Keep answers short (under 180 words) and use simple words.
+6. Give your recommendations in a numbered list, and your possible explanations in a bulleted list."""
 
 PROMPT = ChatPromptTemplate.from_messages([
     ("system", SYSTEM_INSTRUCTION),
